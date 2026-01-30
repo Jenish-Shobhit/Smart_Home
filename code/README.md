@@ -1,8 +1,5 @@
 # Smart Home Code Guide ✨
 
-Beautiful, human-readable notes for `code/Smart_home/Smart_home.ino`.  
-This guide explains the logic, flow, and how each component behaves.
-
 ## Big Picture 🌟
 - **Goal**: secure entry + automated home responses.
 - **Inputs**: PIR, gas, light, soil, steam sensors + 2 buttons.
